@@ -18,18 +18,17 @@
   flex-start: Los coloca al incio del eje secundario
   flex-end: Los coloca al final del eje secundario
   center: Los coloca en el centro del eje secundario
-  */
+  justify-content y align-items tienen las mismas propiedades pero con diferentes funciones*/
   align-items: center;
-  /*flex-wrap: si se coloca wrap, si falta espacio en el eje principal, salta hacia abajo 
-  flex-wrap: none , esta por defecto
-    flex
-  */
 
   /*
    Alinea el contenido, pero cuando se utiliza cuando hay mas de una linea
   */
   align-content: baseline;
-
+  /*flex-wrap: si se coloca wrap, si falta espacio en el eje principal, salta hacia abajo 
+  flex-wrap: none , esta por defecto
+    flex
+  */
   flex-wrap: wrap-reverse;
 }
 
