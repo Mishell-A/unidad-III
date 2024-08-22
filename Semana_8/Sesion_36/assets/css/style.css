@@ -1,0 +1,45 @@
+.flex-container {
+  background-color: dodgerblue;
+  height: 90wh;
+  display: flex;
+  /*rom-reverse: es el espejo de las filas*/
+  /*column: Los coloca en columna*/
+  /*row: filas, se aplica por defecto, se puede cambiar*/
+  flex-direction: row;
+  /*Esta propiedad permite alinear en el eje principal en los elementos flex*/
+  /*flex start: va por defecto, lo coloca al inicio del eje principal*/
+  /*flex end: Los coloca al final de el eje principal
+  /*center: Los coloca en el centro del eje principal*/
+  /*space-between: Lo coloca al final y al principio del eje principal y los demas los coloca con espacios iguales*/
+  /*space-around: Los coloca entre los elementos y los extremos del eje principal, lo que crea un espacio igual en cada extremo del eje principal*/
+  /*space-evenly: Los coloca entre los elementos y los extremos del eje principal, lo que crea un espacio igual en todos los extremos del eje principal e igual entre los elementos*/
+  justify-content: flex-start;
+  /*Esta propiedad permite alinear en el eje secundario, los elementos flex
+  flex-start: Los coloca al incio del eje secundario
+  flex-end: Los coloca al final del eje secundario
+  center: Los coloca en el centro del eje secundario
+  */
+  align-items: center;
+  /*flex-wrap: si se coloca wrap, si falta espacio en el eje principal, salta hacia abajo 
+  flex-wrap: none , esta por defecto
+    flex
+  */
+
+  /*
+   Alinea el contenido, pero cuando se utiliza cuando hay mas de una linea
+  */
+  align-content: baseline;
+
+  flex-wrap: wrap-reverse;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  /*Estas propiedades funcionan solo si se tiene un contenedor flex*/
+  width: fit-content;
+  /*Si no se le asigna width o height se expandira*/
+  height: fit-content;
+}
