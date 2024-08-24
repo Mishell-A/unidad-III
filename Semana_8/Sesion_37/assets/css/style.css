@@ -1,0 +1,20 @@
+body {
+  padding: 2%;
+  color: #444;
+  /* max-width: Ancho maximo */
+  max-width: 980px;
+  margin: 0 auto;
+  background-color: #d67e7e;
+}
+
+.button {
+  padding: 5px;
+  border: 1px solid #ffffff;
+  background-color: #b32020;
+  color: #fff;
+}
+
+div {
+  display: flex;
+  flex-flow: wrap;
+}
