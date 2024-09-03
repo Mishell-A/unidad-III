@@ -74,7 +74,7 @@ console.log(suma);
 let multiplicacion = nums.reduce((a,b) => a*b, 1);
 
 console.log(multiplicacion);
-*/
+
 
 // .sort(funcionDeComparacion)
 // El metodo sort() ordena los elementos de un arreglo (array) localmente y devuelve el arreglo ordenado, la ordenación no es necesariamente estable. El metodo de ordenación por defecto responde a la posición del valor de cada elemento Unicode
@@ -93,3 +93,44 @@ console.log(puntos);
 puntos.sort((a,b) => a - b);
 console.log("Ordenamiento número estricto");
 console.log(puntos);
+
+// .reverse()
+// El metodo reverse() invierte el orden de los elementos de un array in  place. El 'primer elemento pasa a ser el último y el último pasa a ser primero
+
+const arr = [true,1,"hola",54.76, "a"];
+console.log(arr);
+*
+//Revertimos el arreglo
+
+arr.reverse();
+console.log("Reversión");
+console.log(arr);
+
+*/
+
+// split()
+// El metodo split() divide un objeto de tipo string en un array (vector) de cadenas mediante la separación de la cadena con subcadenas
+console.log("split");
+const frase = "hola buen dia a todos";
+console.log(frase);
+
+let palabras = frase.split(" ");
+console.log(palabras);
+
+const csv = "Perú,Argentina,Chile,Colombia";
+console.log(csv);
+
+let paises = csv.split(",");
+console.log(paises)
+
+// join()
+// El metodo join() une todos los elementos de un array en una cadena y devuelve esta cadena
+console.log("join")
+
+let strPalabras = palabras.join(" ");
+
+console.log(strPalabras);
+
+let strpaises = paises.join();
+
+console.log(strpaises);
