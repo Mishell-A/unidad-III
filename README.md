@@ -1,21 +1,27 @@
 ## 📌 ACTIVIDADES
 
+### Semana - 9
 
-    |   Semana - 9  |   To do list  |
-    | ------------- | ------------- |
-    |  Sesion 41    |      ✅       |
-    |  Sesion 42    |      ✅       |
-    |  Sesion 43    |      ✅       |
+| Sesión    | To do list |
+| --------- | ---------- |
+| Sesión 41 | ✅         |
+| Sesión 42 | ✅         |
+| Sesión 43 | ✅         |
+
+### Semana - 10
+
+| Sesión    | To do list |
+| --------- | ---------- |
+| Sesión 47 | ✅         |
+| Sesión 48 | ✅         |
+| Sesión 49 | ✅         |
+| Sesión 50 | ⭕         |
+
+### Semana - 11
+
+| Sesión    | To do list |
+| --------- | ---------- |
+| Sesión 51 | ⭕         |
+| Sesión 52 | ⭕         |
+| Sesión 53 | ⭕         |
  
-    |   Semana - 10 |   To do list  |
-    | ------------- | ------------- |
-    |  Sesion 47    |      ✅       |
-    |  Sesion 48    |      ✅       |
-    |  Sesion 49    |      ✅       | 
-    |  Sesion 50    |      ⭕       | 
-
-    |   Semana - 11 |   To do list  |
-    | ------------- | ------------- |
-    |  Sesion 51    |      ⭕       |
-    |  Sesion 52    |      ⭕       |
-    |  Sesion 53    |      ⭕       | 
