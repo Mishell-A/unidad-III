@@ -26,7 +26,8 @@ $(document).ready(function (){
     //Arrow function
     
     $("#btn").click(() => $("#resultado").toggle())
-    //function
+    
+    //function normal
     /*
     $("#btn").click(function() { 
         $("#resultado").toggle();
