@@ -2,32 +2,26 @@
 
 ### Semana - 9
 
-<div align="center" >
-    | Sesión    | To do list |
-    | --------- | ---------- |
-    | Sesión 41 | ✅         |
-    | Sesión 42 | ✅         |
-    | Sesión 43 | ✅         |
-    
-</div>
+| Sesión    | To do list |
+| --------- | ---------- |
+| Sesión 41 | ✅         |
+| Sesión 42 | ✅         |
+| Sesión 43 | ✅         |
+
 ### Semana - 10
 
-<div align="center">
-    | Sesión    | To do list |
-    | --------- | ---------- |
-    | Sesión 47 | ✅         |
-    | Sesión 48 | ✅         |
-    | Sesión 49 | ✅         |
-    | Sesión 50 | ⭕         |
-    
-</div>
+| Sesión    | To do list |
+| --------- | ---------- |
+| Sesión 47 | ✅         |
+| Sesión 48 | ✅         |
+| Sesión 49 | ✅         |
+| Sesión 50 | ⭕         |
 
 ### Semana - 11
 
-<div align="center">
-    | Sesión    | To do list |
-    | --------- | ---------- |
-    | Sesión 51 | ⭕         |
-    | Sesión 52 | ⭕         |
-    | Sesión 53 | ⭕         |
-</div>
+| Sesión    | To do list |
+| --------- | ---------- |
+| Sesión 51 | ⭕         |
+| Sesión 52 | ⭕         |
+| Sesión 53 | ⭕         |
+ 
