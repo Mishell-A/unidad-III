@@ -1,13 +1,12 @@
 ## 📌 ACTIVIDADES
 
-<div div style="text-align: center;"> 
 
     |   Semana - 9  |   To do list  |
     | ------------- | ------------- |
     |  Sesion 41    |      ✅       |
     |  Sesion 42    |      ✅       |
     |  Sesion 43    |      ✅       |
-</div>    
+ 
     |   Semana - 10 |   To do list  |
     | ------------- | ------------- |
     |  Sesion 47    |      ✅       |
