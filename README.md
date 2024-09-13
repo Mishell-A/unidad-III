@@ -15,7 +15,7 @@
 | Sesión 47 | ✅         |
 | Sesión 48 | ✅         |
 | Sesión 49 | ✅         |
-| Sesión 50 | ⭕         |
+| Sesión 50 | ✅          |
 
 ### Semana - 11
 
